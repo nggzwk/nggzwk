@@ -7,7 +7,7 @@ sdet · cwb, br
 
 ---
 
-<div> building     <a href="https://github.com/nggzwk/carometro">carometro</a> <div/>
+<div> building     <a href="https://ocarometro.com">carometro</a> <div/>
 having fun   with py, ts and my mind
 
 ---
