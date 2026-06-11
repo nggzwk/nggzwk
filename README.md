@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nggzwk/nggzwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**narayane demetrio**  
+sdet · cwb, br
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div> building     <a href="https://github.com/nggzwk/carometro">carometro</a> <div/>
+having fun   with py, ts and my mind
+
+---
+
+<div align="center">
+
+· [in](https://linkedin.com/in/narayanedemetrio) · [x](https://x.com/nggzwk)
+
+</div>
